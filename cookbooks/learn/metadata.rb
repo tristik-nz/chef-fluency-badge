@@ -1,6 +1,6 @@
 name             'learn'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'm784946'
+maintainer_email 'tristik.asus@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures learn'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
